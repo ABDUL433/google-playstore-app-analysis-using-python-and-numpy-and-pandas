@@ -4,5 +4,6 @@ remove null values, and Data cleaning process completed.
 I separated the apps into categories based on downloads most,medium,low
 I separted the apps size
 I find what function of apps most downloaded.
-create heat map.bar graph make to visualize.
+create heat map,bar graph make to visualize.
+
 
